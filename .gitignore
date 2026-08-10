@@ -1,0 +1,10 @@
+# Dependencies
+node_modules
+
+# Logs and temp files
+logs
+
+# Private state
+auth.json
+models-store.json
+trust.json
