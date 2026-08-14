@@ -2,6 +2,7 @@
   "name": "pi-extensions",
   "private": true,
   "dependencies": {
+    "@ff-labs/pi-fff": "^0.10.3",
     "@gotgenes/pi-permission-system": "^24.0.0",
     "@juicesharp/rpiv-web-tools": "^2.4.0",
     "pi-mcp-adapter": "^2.23.0"
