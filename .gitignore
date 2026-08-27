@@ -2,11 +2,13 @@
 node_modules
 
 # Logs and temp files
+fff
 logs
+missions
+run-history.jsonl
 
 # Private state
 auth.json
 models-store.json
 trust.json
 sessions
-fff
