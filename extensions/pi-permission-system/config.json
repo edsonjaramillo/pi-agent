@@ -15,7 +15,12 @@
     },
     "external_directory": {
       "*": "ask",
-      "~/.config/bond/*": "allow"
+      "/private/tmp/*": "allow",
+      "/private/var/*": "allow",
+      "/tmp/*": "allow",
+      "/var/*": "allow",
+      "~/.config/bond/skills/*": "allow",
+      "~/go/pkg/mod/*": "allow"
     }
   }
 }
