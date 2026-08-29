@@ -10,5 +10,6 @@ run-history.jsonl
 # Private state
 auth.json
 models-store.json
-trust.json
 sessions
+settings.json
+trust.json
