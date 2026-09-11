@@ -2,7 +2,13 @@ import type { ExtensionAPI } from "@earendil-works/pi-coding-agent";
 
 const skillGroups = {
   setup: ["aihero/triage", "aihero/setup-matt-pocock-skills"],
-  grilling: ["aihero/domain-modeling", "aihero/grill-with-docs", "aihero/grilling"],
+  grilling: [
+    "aihero/domain-modeling",
+    "aihero/grill-with-docs",
+    "aihero/grilling",
+    "aihero/to-spec",
+    "aihero/to-tickets",
+  ],
   implement: ["aihero/code-review", "aihero/implement", "aihero/tdd"],
 };
 
