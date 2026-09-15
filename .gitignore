@@ -11,5 +11,4 @@ run-history.jsonl
 auth.json
 models-store.json
 sessions
-settings.json
 trust.json
