@@ -4,7 +4,6 @@
   "dependencies": {
     "@gotgenes/pi-permission-system": "^32.0.2",
     "@juicesharp/rpiv-web-tools": "^2.9.0",
-    "@tintinweb/pi-subagents": "^0.19.0",
-    "pi-mcp-adapter": "^2.33.0"
+    "@tintinweb/pi-subagents": "^0.19.0"
   }
 }

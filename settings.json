@@ -4,7 +4,6 @@
   "packages": [
     "npm:@gotgenes/pi-permission-system",
     "npm:@juicesharp/rpiv-web-tools",
-    "npm:pi-mcp-adapter",
     "npm:@tintinweb/pi-subagents"
   ],
   "defaultThinkingLevel": "medium",
