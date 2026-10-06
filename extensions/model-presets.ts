@@ -4,12 +4,12 @@ const MODEL_PROVIDER = "openai-codex";
 
 const MODEL_PRESETS = {
   smart: {
-    modelId: "gpt-5.6-sol",
-    thinkingLevel: "medium",
-    description: "Use Sol with medium thinking",
+    modelId: "gpt-6.1-sol",
+    thinkingLevel: "high",
+    description: "Use Sol with high thinking",
   },
   effecient: {
-    modelId: "gpt-5.6-luna",
+    modelId: "gpt-6-luna",
     thinkingLevel: "max",
     description: "Use Luna with maximum thinking",
   },
